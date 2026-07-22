@@ -24,14 +24,6 @@ HC-SR04 Ultrasonic Sensor
 Breadboard
 connecting Wires
 
-Pin Connections
-
-Component| Arduino Pin
-Trig Pin| D8
-Echo Pin| D9
-Green LED| D6
-Yellow LED| D5
-Red LED| D3
 
 Working Principle
 
